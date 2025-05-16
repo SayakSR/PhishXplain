@@ -1,0 +1,27 @@
+Feature Name,Feature Text (Template)
+Spelling errors and typos,The website has typos such as “[fill here]” and “[fill here]”. Typos in a website often indicate a phishing attempt.
+Suspicious brand references,"The website references a brand incorrectly, such as “[fill here]”. This can be a sign the site is not legitimate."
+Mismatched URLs or domains,The site includes links that lead to “[fill here]” instead of the official domain. This mismatch suggests a possible phishing attempt.
+Requests for sensitive data,"The site asks for highly sensitive data ""[fill here]"" via “[fill here]”. Phishers often request confidential info under false pretenses."
+Unusual pop-ups or iframes,The site uses pop-ups like “[fill here]” that can hide malicious or phishing content. 
+Generic or impersonal greetings,The message or page starts with a generic greeting “[fill here]” instead of addressing you personally. Mass phishing attempts often omit real names.
+Excessive sense of urgency,The site urges immediate action: “[fill here]”. Phishing schemes often instill urgency to reduce scrutiny.
+Threats or penalties,The page threatens a penalty like “[fill here]”. Scammers use fear to provoke immediate action.
+Poor grammar or unnatural phrasing,The text contains awkward sentences like “[fill here]”. Phishing pages frequently have noticeable grammar issues.
+Excessive exclamation marks,The content repeatedly uses exclamation points like “[fill here]!”. Overuse of punctuation can be a sign of a fraudulent site.
+Incomplete content or placeholders,Parts of the site contain placeholder text like “[fill here]” or “[fill here]”. Unfinished pages can indicate a hastily built phishing site.
+Email or phone mismatch,"The site instructs contact via “[fill here]” email/phone, which doesn’t match official channels. This discrepancy may point to a phishing scam."
+Fake countdown timers,The page shows a countdown timer (“[fill here]” left) to push immediate action. This psychological trick is common in phishing.
+Social engineering cues,"The text tries to build trust or personal connection (e.g., “I’m your friend from [fill here]”) to manipulate users. Beware of overfamiliar language."
+Unrecognized domains in forms,The form action sends data to an unfamiliar domain “[fill here]” instead of an expected secure endpoint. This strongly suggests phishing.
+Unprofessional design or layout,"The page has a poor layout or mismatched styles. Fraudulent sites often have subpar designs, e.g., misaligned logos or outdated visuals."
+Multiple grammar mistakes,The text includes several grammatical errors like “[fill here]”. Phishing websites often contain grammatical errors.
+Missing or false contact information,The site’s “Contact Us” section only lists incomplete or obviously fake details such as (“[fill here]”). Legitimate sites generally provide verifiable info.
+Unusual or forced file downloads,The page prompts downloading a suspicious file - “[fill here]”. Phishers may use malware-laden files to compromise devices.
+Unexpected attachments or forms,"The site tries to get you to open attachments or fill out forms that don’t match the context (e.g., “[fill here]”). This may indicate phishing."
+Overpromised freebies or prizes,The site promises unrealistic offers: “[fill here]”. Scammers exploit excitement to gather personal data.
+Hidden or obfuscated text,HTML inspection shows hidden scripts or text  “[fill here]”). Attackers often hide malicious content.
+Disguised file extensions,Links claim to be “[fill here].pdf” but actually point to “.exe” or “.scr”. Malware is often disguised with incorrect file extensions.
+Slight variation in brand name,"The brand name is spelled with extra/replaced letters ""[fill here]"". Crooks use lookalike domains to trick users."
+Third-party or unverified payment requests,"The site demands payment through unknown services ""[fill here]"" instead of official payment channels. This is common in scams."
+Multiple redirect chains or URL shorteners,The site uses a chain of redirects or shorteners “[fill here]”). Hackers often cloak final phishing pages behind multiple shortened URLs.
