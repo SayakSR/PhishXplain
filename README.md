@@ -143,7 +143,7 @@ This project is licensed for **non-commercial use only**.
 Copyright (c) 2025 Sayak Saha Roy.
 
 You are permitted to use, copy, modify, and share the code for **personal, academic, or research purposes**.  
-**Commercial use—including use in proprietary software, paid services, or enterprise deployments—is strictly prohibited** without explicit, written permission from the author.
+**Commercial use—including use in proprietary software, paid services, or enterprise deployments—is strictly prohibited** without explicit, written permission from Sayak Saha Roy.
 
 See the LICENSE.md file for full terms.  
 
