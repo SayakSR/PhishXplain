@@ -136,14 +136,17 @@ phishxplain/
 4. A detailed report is generated with highlighted areas of concern
 5. The user is shown a warning page with visual explanations
 
+## License
 
-## Contributing
+This project is licensed for **non-commercial use only**.
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
+Copyright (c) 2025 Sayak Saha Roy.
+
+You are permitted to use, copy, modify, and share the code for **personal, academic, or research purposes**.  
+**Commercial use—including use in proprietary software, paid services, or enterprise deployments—is strictly prohibited** without explicit, written permission from the author.
+
+See the LICENSE.md file for full terms.  
+
 
 ## Attribution 
 
